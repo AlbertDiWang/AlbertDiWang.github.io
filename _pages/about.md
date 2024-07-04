@@ -15,11 +15,12 @@ redirect_from:
 <style>
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
     p, h1 { margin-bottom: 20px; text-align: left; }
-    a { color: blue; text-decoration: none; }
+    a { color: #6a7ba2; text-decoration: none; }
     a:hover { text-decoration: underline; }
     strong { font-weight: bold; }
 </style>
 </head>
+
 
 <body>
     <h1>Welcome! My name is Albert Di Wang.</h1> 
