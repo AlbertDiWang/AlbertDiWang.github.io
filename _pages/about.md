@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! My name is Albert Di Wang.
 
-I am a third-year Ph.D. student at [McCombs School of Business](https://www.mccombs.utexas.edu/){:target="_blank"}, [The University of Texas at Austin](https://www.utexas.edu/){:target="_blank"}, majoring in Accounting and minoring in Financial Economics and Econometrics. I hold a Master's degree in Accounting from UT Austin and a Master's degree in Financial Engineering and a Bachelor's degree in Financial Management from [SWUFE](https://e.swufe.edu.cn/){:target="_blank"}.
+I am a third-year Ph.D. student at [McCombs School of Business](https://www.mccombs.utexas.edu/){:target="_blank"}, [The University of Texas at Austin](https://www.utexas.edu/){:target="_blank"}, majoring in Accounting and minoring in Financial Economics and Econometrics. I hold a Master's degree in Accounting from UT Austin and a Master's degree in Financial Engineering and a Bachelor's degree in Financial Management from [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/){:target="_blank"}.
 
 My research focuses on the **real effects of SEC and PCAOB regulations** and the **role of Artificial Intelligence in capital markets**. In my second-year summer paper, I document a significant decline in U.S. attractiveness to foreign listings over the past two decades. Leveraging the staggered introduction of PCAOB international inspections, I identify U.S. international regulatory oversight as a significant contributor to this prolonged trend.
 
