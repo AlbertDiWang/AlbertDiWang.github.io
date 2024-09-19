@@ -25,13 +25,13 @@ redirect_from:
 <body>
     <h1>Welcome! My name is Albert Di Wang.</h1> 
     <p style='text-align: justify;'>
-        I am a third-year Ph.D. student at <a href="https://www.mccombs.utexas.edu/" target="_blank">McCombs School of Business</a>, <a href="https://www.utexas.edu/" target="_blank">The University of Texas at Austin</a>, majoring in Accounting and minoring in Financial Economics and Econometrics. I hold a Master's degree in Accounting from UT Austin and a Master's degree in Financial Engineering and a Bachelor's degree in Financial Management from <a href="https://e.swufe.edu.cn/" target="_blank">Southwestern University of Finance and Economics</a>.
+        I am a Ph.D. student in Accounting (minor: Finance & Econometrics) at McCombs School of Business, The University of Texas at Austin.
     </p>
     <p style='text-align: justify;'>
-        My research focuses on the <strong>real effects of SEC and PCAOB regulations</strong> and the <strong>role of Artificial Intelligence in capital markets</strong>. In my second-year summer paper, I document a significant decline in U.S. attractiveness to foreign listings over the past two decades. Leveraging the staggered introduction of PCAOB international inspections, I identify U.S. international regulatory oversight as a significant contributor to this prolonged trend.
+        My research focuses on the implications of regulations and financial technologies in capital markets, and has been invited to present at NBER Chinese Economy, PCAOB Auditing and Capital Markets, SFS Cavalcade North America, and University of Illinois Auditing Research conferences.
     </p>
     <p style='text-align: justify;'>
-        Before my Ph.D., I worked as a machine learning engineer at <a href="https://corporate.jd.com/" target="_blank">JD.COM</a>, where I led the development of algorithms for consumer credit risk modeling, return freight insurance pricing, and personalized recommendation system. I was also affiliated with the Joint Lab in Financial Technology and Engineering with <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>, where I began my research journey in FinTech consumer credit.
+        I was previously a senior machine learning engineer at JD.COM, where I led the development of algorithms for credit risk assessment, insurance pricing, and personalized recommendation system. I hold a Master in Accounting from UT Austin, a Master in Financial Engineering and a Bachelor in Financial Management from Southwestern University of Finance and Economics.
     </p>
     <p style='text-align: justify;'>In my spare time, I enjoy weight training, playing basketball, playing electric/acoustic guitar, and cooking.</p>
 </body>
