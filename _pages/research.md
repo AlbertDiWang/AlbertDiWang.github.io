@@ -20,7 +20,7 @@ author_profile: true
 </head>
 <body>
     <div class="paper">
-        <h1 class="title">1. International Oversight and Global Capital Flow: Evidence from PCAOB International Inspections</h1>
+        <h1 class="title">1. International Oversight and Global Capital Flow</h1>
         <p>
             - with Shuping Chen and Nick Hallman<br>
             - developed from my second-year summer paper<br>
@@ -37,7 +37,7 @@ author_profile: true
         <h1 class="title">2. Deciphering the Impact of BigTech Consumer Credit</h1>
         <p>
             - with Lei Chen, Wenlan Qian, and Qi Wu<br>
-            - presented at <span class="conference">NBER China 2024\*, SFS Cavalcade North America 2024, etc.</span>
+            - presented at <span class="conference">NBER China 2024*, SFS Cavalcade North America 2024, etc.</span>
         </p>
         <p style='text-align: justify;'><b>Abstract</b>: The last decade has witnessed a significant surge in large technology companies (BigTechs) entering the credit market. Using a proprietary dataset from a leading e-commerce BigTech and a novel reject inference setting—where credit applicants initially rejected by the BigTech’s auto- underwriting system are randomly approved—we examine how BigTech credit shapes users’ spending behavior. Our stacked difference-in-differences analyses reveal a 19% increase in spending among credit recipients. This is primarily driven by increased purchase frequency, consisting of higher visit frequency and improved visit-to-purchase conversion rates. Credit- induced spending is more pronounced among individuals likely excluded from traditional bank credit, less active on the platform, or residing in regions with better logistics infrastructure for e- commerce, indicating BigTechs’ role in financial inclusion and the synergy between the lending and core businesses. Credit recipients demonstrate increased consumption variety by choosing a wider range of products, stores, and brands, suggesting that BigTech credit amplifies the value e- commerce adds to the consumer experience. Despite strong consumption effects, we find no evidence of overspending. Our research demonstrates the implications of BigTechs integrating their lending and core businesses, and helps explain the surge in popularity of BigTechs in the FinTech lending sector.</p>
     </div>
