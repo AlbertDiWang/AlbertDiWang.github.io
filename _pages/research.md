@@ -24,7 +24,7 @@ author_profile: true
         <p>
             - with Shuping Chen and Nick Hallman<br>
             - developed from my second-year summer paper<br>
-            - presented at <span class="conference">PCAOB 2024 (scheduled), Illinois Symposium 2024 (scheduled), etc.</span>
+            - presented at <span class="conference">PCAOB 2024 (scheduled), Illinois Symposium 2024* (scheduled), etc.</span>
         </p>
         <p style='text-align: justify;'><b>Abstract</b>: We document a significant decline in the United States (U.S.) as a destination for foreign listings over the past two decades. Leveraging the staggered introduction of Public Company Accounting Oversight Board (PCAOB) international inspections across 55 countries worldwide, we investigate the role of PCAOB regulatory oversight in contributing to this prolonged trend. Our stacked difference-in-differences analyses demonstrate that companies are between 8 and 16 percent less likely to pursue U.S. listings when doing so exposes their audits to PCAOB inspections. This deterrent effect is concentrated: (1) among companies for whom PCAOB inspections likely impose greater compliance costs, (2) in industries foreign governments are likely to view as important for national security, and (3) in countries with which the U.S. is experiencing more political tension. Placebo tests show that there is no similar reduction in foreign listings to non-U.S. markets after the PCAOB gains inspection access in companies’ home countries; indeed, listings to some non-U.S. markets increase, suggesting that companies from PCAOB-impacted countries shift their listings to non-U.S. host countries to avoid inspection.</p>
     </div>
