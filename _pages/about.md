@@ -28,7 +28,7 @@ redirect_from:
         I am a Ph.D. student in Accounting (minor: Finance & Econometrics) at McCombs School of Business, The University of Texas at Austin.
     </p>
     <p>
-        My research focuses on the implications of regulations and financial technologies in capital markets, and has been invited to presentations at NBER Chinese Economy Working Group Meeting, PCAOB Conference on Auditing and Capital Markets, SFS Cavalcade North America, Workshops at the Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Artificial Intelligence, etc.
+        My research focuses on the implications of regulations and financial technologies in capital markets, and has been invited to presentations at multiple research conferences, including the 2024 NBER Chinese Economy Working Group Meeting, the 2024 PCAOB Conference on Auditing and Capital Markets, the 2024 Society for Financial Studies Cavalcade North America, the 2024 Financial Accounting and Reporting Midyear Conference, and the 2025 Swiss Accounting Research Alpine Camp.
     </p>
     <p>
         I was previously a senior machine learning engineer at JD.COM, where I led the development of algorithms for credit risk assessment, insurance pricing, and personalized recommendation system. I hold a Master in Accounting from UT Austin, a Master in Financial Engineering and a Bachelor in Financial Management from Southwestern University of Finance and Economics.
